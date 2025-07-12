@@ -1,0 +1,11 @@
+topic,difficulty,question,option1,option2,option3,option4,answer
+Python,easy,"How to assign a value to a variable in Python?","int x = 10","x = 10","var x = 10","x : 10","x = 10"
+Python,medium,"How to get the last item of a list?","list[-1]","list[0]","list[1]","list[len]","list[-1]"
+Python,hard,"Which data type is unchangeable (immutable) in Python?","list","set","tuple","dict","tuple"
+NumPy,easy,"What does NumPy help with?","Game design","Web development","Numerical calculations","Text editing","Numerical calculations"
+NumPy,medium,"What type is returned by np.array([1,2,3])?","list","tuple","numpy.ndarray","string","numpy.ndarray"
+NumPy,hard,"What does np.zeros((2,2)) create?","2x2 ones array","2x2 zeros array","empty array","error","2x2 zeros array"
+Pandas,easy,"What is a DataFrame in Pandas?","A spreadsheet-like table","A Function","A Loop","A List","A spreadsheet-like table"
+Pandas,medium,"What does df['name'] do?","Access column name","Delete row","Call a function","Does nothing","Access column name"
+Pandas,hard,"How to find missing values in a DataFrame?","df.null()","df.isnull()","df.missing()","df.checknull()","df.isnull()"
+Pandas,easy,"What is the use of pd.read_csv()?","Deletes CSV file","Reads CSV file","Saves a file","Creates a list","Reads CSV file"

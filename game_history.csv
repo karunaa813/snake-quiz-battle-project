@@ -1,0 +1,119 @@
+question,selected,correct,answer,time,score,timestamp
+What does 'len()' do?,Returns length,True,Returns length,4.04,10,2025-07-05T18:39:22.423773
+What does 'len()' do?,Returns length,True,Returns length,5.83,20,2025-07-05T18:39:42.553331
+question,selected,correct,answer,time,score,timestamp
+Which function creates array?,array(),True,array(),4.84,10,2025-07-05T18:40:19.206600
+Which function creates array?,array(),True,array(),2.49,20,2025-07-05T18:40:27.124528
+question,selected,correct,answer,time,score,timestamp
+What does 'len()' do?,Returns length,True,Returns length,2.52,10,2025-07-05T18:44:35.056532
+What does 'len()' do?,Calculates power,False,Returns length,2.17,5,2025-07-05T18:44:54.022575
+What does 'len()' do?,Returns length,True,Returns length,5.03,15,2025-07-05T18:45:18.072108
+question,selected,correct,answer,time,score,timestamp
+What does 'len()' do?,Returns length,True,Returns length,1.49,10,2025-07-05T18:46:03.184715
+What does 'len()' do?,Calculates power,False,Returns length,1.38,5,2025-07-05T18:46:13.921870
+What does 'len()' do?,Loops data,False,Returns length,2.19,0,2025-07-05T18:46:27.605258
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,list,False,tuple,3.26,0,2025-07-05T19:05:04.092108
+Which is the correct way to create a variable in Python?,int x = 10,False,x = 10,1.57,0,2025-07-05T19:05:13.218012
+Which is the correct way to create a variable in Python?,x : 10,False,x = 10,1.77,0,2025-07-05T19:05:20.523933
+Which is the correct way to create a variable in Python?,int x = 10,False,x = 10,1.39,0,2025-07-05T19:05:27.445223
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,list,False,tuple,2.29,0,2025-07-05T19:09:06.344721
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,list,False,tuple,1.35,0,2025-07-05T19:15:54.168417
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,list,False,tuple,1.22,0,2025-07-05T19:17:46.061215
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,tuple,True,tuple,3.08,10,2025-07-05T19:18:57.270885
+Which data type is immutable in Python?,list,False,tuple,2.3,5,2025-07-05T19:19:13.755701
+How do you access the last element of a list in Python?,list[-1],True,list[-1],2.58,15,2025-07-05T19:19:23.864046
+How do you access the last element of a list in Python?,list[1],False,list[-1],1.76,10,2025-07-05T19:19:32.977315
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,tuple,True,tuple,3.99,10,2025-07-05T19:25:34.332923
+question,selected,correct,answer,time,score,timestamp
+"What does np.zeros((2,2)) create?",2x2 ones array,False,2x2 zeros array,3.32,0,2025-07-05T20:37:58.648673
+What does NumPy stand for?,Numerical Python,True,Numerical Python,0.9,10,2025-07-05T20:38:01.469172
+"What type of object is returned by np.array([1,2,3])?",numpy.ndarray,True,numpy.ndarray,1.26,20,2025-07-05T20:38:08.063558
+"What type of object is returned by np.array([1,2,3])?",string,False,numpy.ndarray,0.9,15,2025-07-05T20:38:12.887201
+"What type of object is returned by np.array([1,2,3])?",list,False,numpy.ndarray,1.04,10,2025-07-05T20:38:16.751290
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,list,False,tuple,2.3,0,2025-07-05T20:42:17.137588
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,list,False,tuple,1.4,0,2025-07-08T14:54:45.253433
+question,selected,correct,answer,time,score,timestamp
+"What does np.zeros((2,2)) create?",2x2 zeros array,True,2x2 zeros array,3.86,10,2025-07-08T14:55:47.063854
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,tuple,True,tuple,1.72,10,2025-07-08T21:29:29.991379
+question,selected,correct,answer,time,score,timestamp
+"What does np.zeros((2,2)) create?",2x2 zeros array,True,2x2 zeros array,1.85,10,2025-07-08T21:29:58.374662
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,set,False,tuple,1.81,0,2025-07-08T21:30:40.100630
+Which is the correct way to create a variable in Python?,x = 10,True,x = 10,1.91,10,2025-07-08T21:30:47.240692
+How do you access the last element of a list in Python?,list[0],False,list[-1],1.63,5,2025-07-08T21:30:54.204933
+Which is the correct way to create a variable in Python?,x : 10,False,x = 10,1.6,0,2025-07-08T21:31:01.944061
+Which is the correct way to create a variable in Python?,x = 10,True,x = 10,1.2,10,2025-07-08T21:31:07.375690
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,tuple,True,tuple,1.56,10,2025-07-08T21:37:55.146478
+Which data type is immutable in Python?,tuple,True,tuple,1.84,20,2025-07-08T21:37:59.708581
+question,selected,correct,answer,time,score,timestamp
+Which data type is immutable in Python?,tuple,True,tuple,1.61,10,2025-07-08T21:38:27.800801
+Which data type is immutable in Python?,set,False,tuple,2.77,10,2025-07-08T21:38:36.001680
+question,selected,correct,answer,time,score,timestamp
+How do you check for missing values in a DataFrame?,df.isnull(),True,df.isnull(),2.67,10,2025-07-08T21:39:18.618574
+question,selected,correct,answer,time,score,timestamp
+How do you check for missing values in a DataFrame?,df.isnull(),True,df.isnull(),1.27,10,2025-07-08T21:39:38.596884
+How do you check for missing values in a DataFrame?,df.isnull(),True,df.isnull(),2.73,20,2025-07-08T21:39:45.849432
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.37,10,2025-07-08T21:44:27.167812
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,2.15,20,2025-07-08T21:44:31.735813
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,3.34,10,2025-07-08T21:49:22.406569
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.38,10,2025-07-08T21:50:17.623264
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.84,10,2025-07-08T21:50:35.676569
+How to get the last item of a list?,list[0],False,list[-1],2.21,10,2025-07-08T21:50:41.446937
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,3.75,10,2025-07-08T22:40:20.252133
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,2.92,10,2025-07-09T13:24:09.657544
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.55,10,2025-07-10T08:22:50.249599
+question,selected,correct,answer,time,score,timestamp
+How to find missing values in a DataFrame?,df.isnull(),True,df.isnull(),4.67,10,2025-07-10T08:23:54.579758
+question,selected,correct,answer,time,score,timestamp
+"What does np.zeros((2,2)) create?",empty array,False,2x2 zeros array,2.15,0,2025-07-10T08:24:46.864317
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.64,10,2025-07-10T08:25:13.800872
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,3.93,10,2025-07-10T08:26:40.140308
+How to assign a value to a variable in Python?,var x = 10,False,x = 10,2.0,10,2025-07-10T08:26:47.509400
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,6.28,10,2025-07-10T08:27:28.636167
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,,False,tuple,10,0,2025-07-10T09:05:20.573921
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.58,10,2025-07-10T09:05:47.134677
+How to get the last item of a list?,list[0],False,list[-1],1.49,10,2025-07-10T09:06:03.114389
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.57,10,2025-07-10T09:08:14.188279
+How to get the last item of a list?,list[1],False,list[-1],6.64,10,2025-07-10T09:08:23.955073
+question,selected,correct,answer,time,score,timestamp
+How to find missing values in a DataFrame?,df.missing(),False,df.isnull(),1.52,0,2025-07-10T15:52:07.943406
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.25,10,2025-07-10T15:53:53.200641
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.75,10,2025-07-10T16:01:34.906792
+How to assign a value to a variable in Python?,x = 10,True,x = 10,1.38,20,2025-07-10T16:01:42.167289
+How to get the last item of a list?,list[-1],True,list[-1],1.33,30,2025-07-10T16:01:47.625430
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,7.89,10,2025-07-12T18:00:53.790235
+How to get the last item of a list?,,False,list[-1],10.0,10,2025-07-12T18:01:07.166004
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.5,10,2025-07-12T18:29:56.169564
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.62,10,2025-07-12T18:31:22.564369
+How to assign a value to a variable in Python?,x = 10,True,x = 10,1.03,20,2025-07-12T18:31:27.945218
+question,selected,correct,answer,time,score,timestamp
+Which data type is unchangeable (immutable) in Python?,tuple,True,tuple,1.54,10,2025-07-12T18:49:00.182319
+How to get the last item of a list?,list[1],False,list[-1],1.46,10,2025-07-12T18:49:04.776261
